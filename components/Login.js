@@ -31,7 +31,7 @@ export default function Login({ navigation }) {
           resizeMode="cover"
         >
           <View style={styles.overlay}>
-            <Text style={styles.title}>Welcome Back!</Text>
+            <Text style={styles.title}>Happy Ganathanthra dinotsavam!</Text>
 
             <TextInput style={styles.input} placeholder="Email" placeholderTextColor="#333" />
             <TextInput
