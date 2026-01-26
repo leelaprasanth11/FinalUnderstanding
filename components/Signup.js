@@ -23,7 +23,7 @@ export default function Signup({navigation}) {
           resizeMode="cover"
         >
           <View style={styles.overlay}>
-            <Text style={styles.title}>Create Account</Text>
+            <Text style={styles.title}>Create Our Account</Text>
             
             {/* Form Fields */}
             <TextInput style={styles.input} placeholder="First Name" placeholderTextColor="#333" />
